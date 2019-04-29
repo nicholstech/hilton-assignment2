@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "hilton-assignment-nextjs",
+  "builds": [
+    {"src": "package.json", "use": "@now/static-build"}
+  ]
+}

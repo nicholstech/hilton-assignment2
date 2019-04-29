@@ -1,0 +1,230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Rooms/> should render four <Room/> elements 1`] = `
+<Fragment>
+  <Room
+    adults={
+      Array [
+        Object {
+          "displayValue": "1",
+          "value": "1",
+        },
+        Object {
+          "displayValue": "2",
+          "value": "2",
+        },
+      ]
+    }
+    data-test="component-room"
+    isSelected={false}
+    key="1"
+    room={
+      Object {
+        "adults": Array [
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "children": Array [
+          Object {
+            "displayValue": "0",
+            "value": "0",
+          },
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "id": 1,
+        "isSelected": false,
+        "selectedAdults": 0,
+        "selectedChildren": 0,
+      }
+    }
+    roomNumber={1}
+    selectedAdults={0}
+    selectedChildren={0}
+  >
+    <Component />
+    <Component />
+    <Component />
+  </Room>
+  <Room
+    adults={
+      Array [
+        Object {
+          "displayValue": "1",
+          "value": "1",
+        },
+        Object {
+          "displayValue": "2",
+          "value": "2",
+        },
+      ]
+    }
+    data-test="component-room"
+    isSelected={false}
+    key="2"
+    room={
+      Object {
+        "adults": Array [
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "children": Array [
+          Object {
+            "displayValue": "0",
+            "value": "0",
+          },
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "id": 2,
+        "isSelected": false,
+        "selectedAdults": 0,
+        "selectedChildren": 0,
+      }
+    }
+    roomNumber={2}
+    selectedAdults={0}
+    selectedChildren={0}
+  >
+    <Component />
+    <Component />
+    <Component />
+  </Room>
+  <Room
+    adults={
+      Array [
+        Object {
+          "displayValue": "1",
+          "value": "1",
+        },
+        Object {
+          "displayValue": "2",
+          "value": "2",
+        },
+      ]
+    }
+    data-test="component-room"
+    isSelected={false}
+    key="3"
+    room={
+      Object {
+        "adults": Array [
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "children": Array [
+          Object {
+            "displayValue": "0",
+            "value": "0",
+          },
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "id": 3,
+        "isSelected": false,
+        "selectedAdults": 0,
+        "selectedChildren": 0,
+      }
+    }
+    roomNumber={3}
+    selectedAdults={0}
+    selectedChildren={0}
+  >
+    <Component />
+    <Component />
+    <Component />
+  </Room>
+  <Room
+    adults={
+      Array [
+        Object {
+          "displayValue": "1",
+          "value": "1",
+        },
+        Object {
+          "displayValue": "2",
+          "value": "2",
+        },
+      ]
+    }
+    data-test="component-room"
+    isSelected={false}
+    key="4"
+    room={
+      Object {
+        "adults": Array [
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "children": Array [
+          Object {
+            "displayValue": "0",
+            "value": "0",
+          },
+          Object {
+            "displayValue": "1",
+            "value": "1",
+          },
+          Object {
+            "displayValue": "2",
+            "value": "2",
+          },
+        ],
+        "id": 4,
+        "isSelected": false,
+        "selectedAdults": 0,
+        "selectedChildren": 0,
+      }
+    }
+    roomNumber={4}
+    selectedAdults={0}
+    selectedChildren={0}
+  >
+    <Component />
+    <Component />
+    <Component />
+  </Room>
+</Fragment>
+`;
